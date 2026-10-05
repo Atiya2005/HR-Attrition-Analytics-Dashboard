@@ -43,7 +43,7 @@ attrition trends.
 
 ## Dashboard Preview
 
-![HR & Attrition Dashboard](Dashboard_Preview.png)
+![HR & Attrition Dashboard](HR_Attrition_Dashboard_Preview.png)
 
 ## Project Objective
 
