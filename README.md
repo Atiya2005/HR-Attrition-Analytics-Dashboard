@@ -1,12 +1,13 @@
-# HR Analytics & Attrition Dashboard
+# HR & Attrition Analytics Dashboard
 
 ## Project Overview
 
-This project presents an interactive HR Analytics & Attrition Dashboard
+This project presents an interactive HR & Attrition Analytics Dashboard
 developed using Microsoft Excel.
 
-The dashboard provides insights into employee attrition, termination trends,
-employee tenure, department-wise performance and workforce demographics.
+The dashboard provides insights into employee attrition, tenure,
+department-wise attrition, age groups, gender distribution and monthly
+attrition trends.
 
 ## Tools & Technologies
 
@@ -21,34 +22,34 @@ employee tenure, department-wise performance and workforce demographics.
 ## Key Performance Indicators
 
 - Total Employees
-- Attrition Rate
+- Active Employees
 - Total Terminations
-- Average Tenure
+- Attrition Rate
 
 ## Dashboard Analysis
 
-- Voluntary vs Involuntary Attrition
-- Employee Tenure Distribution
-- Active Employees by Country & Gender
 - Attrition Rate by Department
-- Monthly Termination Trends
-- Year-wise Termination Analysis
-- Employee Status Analysis
+- Employee Tenure Distribution
+- Attrition by Age Group
+- Gender Distribution
+- Monthly Attrition Trend
+- Department-wise Analysis
+- Year-wise Analysis
 
 ## Interactive Filters
 
 - Department
 - Years
-- Employee Status
 
 ## Dashboard Preview
 
-![HR Attrition Analytics Dashboard](Dashboard_Preview.png)
+![HR & Attrition Dashboard](Dashboard_Preview.png)
 
 ## Project Objective
 
 The objective of this project is to analyze employee attrition patterns
-and provide meaningful HR insights through an interactive Excel dashboard.
+and workforce characteristics and present meaningful HR insights through
+an interactive Excel dashboard.
 
 ## Skills Demonstrated
 
