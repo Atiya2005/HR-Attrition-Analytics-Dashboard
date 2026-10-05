@@ -43,7 +43,7 @@ employee tenure, department-wise performance and workforce demographics.
 
 ## Dashboard Preview
 
-![HR Analytics & Attrition Dashboard](Dashboard_Preview.png)
+![HR Attrition Analytics Dashboard](Dashboard_Preview.png)
 
 ## Project Objective
 
